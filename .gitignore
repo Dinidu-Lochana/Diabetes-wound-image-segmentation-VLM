@@ -1,0 +1,4 @@
+.env
+venv
+sam_hq_vit_h.pth
+sam_hq
